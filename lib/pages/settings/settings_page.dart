@@ -14,9 +14,8 @@ class SettingPage extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-          Icon(Icons.access_alarm_sharp),
+          Icon(Icons.accessibility_rounded),
           Icon(Icons.ac_unit),
-          Icon(Icons.zoom_out_rounded),
           Icon(Icons.account_tree),
           Icon(Icons.add_box_outlined),
           ],
